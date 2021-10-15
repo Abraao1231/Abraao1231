@@ -13,10 +13,17 @@
 
 
 
+
 ## :arrow_down:GitHub stats:
                                                                                                      
 
 <p align="center">
   <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao1231&hide=jupyter%20notebook,html&layout=compact&theme=radical" />
   <img src='https://github-readme-stats.vercel.app/api?username=Abraao1231&show_icons=true&theme=radical '>
+</p>
+<p align='center'>
+
+
+<img  width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+
 </p>
